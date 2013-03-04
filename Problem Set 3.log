@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  2 MAR 2013 14:44
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  4 MAR 2013 00:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -174,7 +174,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen124
 \Gm@dimlist=\toks23
 )
-(./Problem Set 3.aux)
+(./Problem Set 3.aux
+
+LaTeX Warning: Label `2_1' multiply defined.
+
+)
 \openout1 = `"Problem Set 3.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -189,8 +193,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
-
-(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+ (/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
 \scratchdimen=\dimen125
@@ -281,30 +284,319 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
+<1_1.pdf, id=1, 613.33138pt x 586.35057pt>
+File: 1_1.pdf Graphic file (type pdf)
+ <use 1_1.pdf>
+Package pdftex.def Info: 1_1.pdf used on input line 27.
+(pdftex.def)             Requested size: 433.62pt x 414.54926pt.
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./Problem Set 3.aux) ) 
+<1_2a.pdf, id=2, 950.61717pt x 268.0198pt>
+File: 1_2a.pdf Graphic file (type pdf)
+ <use 1_2a.pdf>
+Package pdftex.def Info: 1_2a.pdf used on input line 35.
+(pdftex.def)             Requested size: 433.62pt x 122.25592pt.
+ [1
+
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./1_1.p
+df>]
+<1_2b.pdf, id=20, 954.63248pt x 404.53937pt>
+File: 1_2b.pdf Graphic file (type pdf)
+ <use 1_2b.pdf>
+Package pdftex.def Info: 1_2b.pdf used on input line 43.
+(pdftex.def)             Requested size: 433.62pt x 183.75087pt.
+
+<1_2c.pdf, id=21, 949.61342pt x 481.83342pt>
+File: 1_2c.pdf Graphic file (type pdf)
+ <use 1_2c.pdf>
+Package pdftex.def Info: 1_2c.pdf used on input line 51.
+(pdftex.def)             Requested size: 433.62pt x 220.02122pt.
+ [2 <./1_2a.pdf> <./1_2b.pdf>] <1_3a.pdf, id=45, 950.61717pt x 571.17339pt>
+File: 1_3a.pdf Graphic file (type pdf)
+ <use 1_3a.pdf>
+Package pdftex.def Info: 1_3a.pdf used on input line 58.
+(pdftex.def)             Requested size: 433.62pt x 260.53795pt.
+
+<1_3b.pdf, id=46, 945.59818pt x 635.4178pt>
+File: 1_3b.pdf Graphic file (type pdf)
+ <use 1_3b.pdf>
+Package pdftex.def Info: 1_3b.pdf used on input line 66.
+(pdftex.def)             Requested size: 433.62pt x 291.37463pt.
+ [3 <./1_2c.pdf> <./1_3a.pdf>] [4 <./1_3b.pdf>] <1_4.pdf, id=83, 613.33138pt x 
+786.77943pt>
+File: 1_4.pdf Graphic file (type pdf)
+
+<use 1_4.pdf>
+Package pdftex.def Info: 1_4.pdf used on input line 78.
+(pdftex.def)             Requested size: 433.62pt x 556.25227pt.
+ [5] <p2_1_schem.png, id=90, 1158.53235pt x 658.54193pt>
+File: p2_1_schem.png Graphic file (type png)
+
+<use p2_1_schem.png>
+Package pdftex.def Info: p2_1_schem.png used on input line 85.
+(pdftex.def)             Requested size: 433.62pt x 246.48033pt.
+ [6 <./1_4.pdf>]
+<p2_1_dcop.png, id=103, 1051.60225pt x 597.33368pt>
+File: p2_1_dcop.png Graphic file (type png)
+ <use p2_1_dcop.png>
+Package pdftex.def Info: p2_1_dcop.png used on input line 92.
+(pdftex.def)             Requested size: 433.62pt x 246.30292pt.
+
+[7 <./p2_1_schem.png> <./p2_1_dcop.png>]
+<1_5.pdf, id=110, 613.33138pt x 786.77943pt>
+File: 1_5.pdf Graphic file (type pdf)
+ <use 1_5.pdf>
+Package pdftex.def Info: 1_5.pdf used on input line 103.
+(pdftex.def)             Requested size: 433.62pt x 556.25227pt.
+ [8]
+<p2_2_schem_1p.png, id=114, 799.3947pt x 598.07112pt>
+File: p2_2_schem_1p.png Graphic file (type png)
+ <use p2_2_schem_1p.png>
+Package pdftex.def Info: p2_2_schem_1p.png used on input line 110.
+(pdftex.def)             Requested size: 433.62pt x 324.41373pt.
+
+[9 <./1_5.pdf>] <p2_2_dcop_1p.png, id=126, 799.3947pt x 598.07112pt>
+File: p2_2_dcop_1p.png Graphic file (type png)
+
+<use p2_2_dcop_1p.png>
+Package pdftex.def Info: p2_2_dcop_1p.png used on input line 117.
+(pdftex.def)             Requested size: 433.62pt x 324.41373pt.
+ [10 <./p2_2_schem_1p.png>]
+<p2_2_schem.png, id=131, 799.3947pt x 598.07112pt>
+File: p2_2_schem.png Graphic file (type png)
+ <use p2_2_schem.png>
+Package pdftex.def Info: p2_2_schem.png used on input line 124.
+(pdftex.def)             Requested size: 433.62pt x 324.41373pt.
+
+[11 <./p2_2_dcop_1p.png>] <p2_2_dcop.png, id=136, 799.3947pt x 598.07112pt>
+File: p2_2_dcop.png Graphic file (type png)
+
+<use p2_2_dcop.png>
+Package pdftex.def Info: p2_2_dcop.png used on input line 132.
+(pdftex.def)             Requested size: 433.62pt x 324.41373pt.
+ [12 <./p2_2_schem.png>] [13 <./p2_2_dcop.png>]
+<p2_3_1.png, id=146, 1203.49625pt x 698.61pt>
+File: p2_3_1.png Graphic file (type png)
+ <use p2_3_1.png>
+Package pdftex.def Info: p2_3_1.png used on input line 145.
+(pdftex.def)             Requested size: 433.62pt x 251.7126pt.
+
+<p2_3_2.png, id=147, 1203.49625pt x 698.61pt>
+File: p2_3_2.png Graphic file (type png)
+ <use p2_3_2.png>
+Package pdftex.def Info: p2_3_2.png used on input line 152.
+(pdftex.def)             Requested size: 433.62pt x 251.7126pt.
+ [14 <./p2_3_1.png (PNG copy)>] [15 <./p2_3_2.png (PNG copy)>]
+<1_6.pdf, id=156, 613.33138pt x 786.77943pt>
+File: 1_6.pdf Graphic file (type pdf)
+ <use 1_6.pdf>
+Package pdftex.def Info: 1_6.pdf used on input line 161.
+(pdftex.def)             Requested size: 433.62pt x 556.25227pt.
+
+<p2_4_schem.png, id=157, 668.86623pt x 597.33368pt>
+File: p2_4_schem.png Graphic file (type png)
+ <use p2_4_schem.png>
+Package pdftex.def Info: p2_4_schem.png used on input line 168.
+(pdftex.def)             Requested size: 433.62pt x 387.25056pt.
+
+[16 <./1_6.pdf>] <p2_4_dcop.png, id=169, 668.86623pt x 597.33368pt>
+File: p2_4_dcop.png Graphic file (type png)
+
+<use p2_4_dcop.png>
+Package pdftex.def Info: p2_4_dcop.png used on input line 176.
+(pdftex.def)             Requested size: 433.62pt x 387.25056pt.
+ [17 <./p2_4_schem.png>] [18 <./p2_4_dcop.png>]
+<1_7.pdf, id=178, 613.33138pt x 786.77943pt>
+File: 1_7.pdf Graphic file (type pdf)
+ <use 1_7.pdf>
+Package pdftex.def Info: 1_7.pdf used on input line 185.
+(pdftex.def)             Requested size: 433.62pt x 556.25227pt.
+
+<p2_5_schem.png, id=179, 528.75092pt x 597.33368pt>
+File: p2_5_schem.png Graphic file (type png)
+ <use p2_5_schem.png>
+Package pdftex.def Info: p2_5_schem.png used on input line 192.
+(pdftex.def)             Requested size: 433.62pt x 489.8897pt.
+
+[19 <./1_7.pdf>] <p2_5_dcop.png, id=193, 528.75092pt x 597.33368pt>
+File: p2_5_dcop.png Graphic file (type png)
+
+<use p2_5_dcop.png>
+Package pdftex.def Info: p2_5_dcop.png used on input line 200.
+(pdftex.def)             Requested size: 433.62pt x 489.8897pt.
+ [20 <./p2_5_schem.png>] [21 <./p2_5_dcop.png>]
+<1_8.pdf, id=202, 613.33138pt x 786.77943pt>
+File: 1_8.pdf Graphic file (type pdf)
+ <use 1_8.pdf>
+Package pdftex.def Info: 1_8.pdf used on input line 209.
+(pdftex.def)             Requested size: 433.62pt x 556.25227pt.
+
+<p2_6_schem.png, id=203, 844.37907pt x 596.59622pt>
+File: p2_6_schem.png Graphic file (type png)
+ <use p2_6_schem.png>
+Package pdftex.def Info: p2_6_schem.png used on input line 216.
+(pdftex.def)             Requested size: 433.62pt x 306.37201pt.
+
+[22 <./1_8.pdf>] <p2_6_dcop.png, id=215, 844.37907pt x 596.59622pt>
+File: p2_6_dcop.png Graphic file (type png)
+
+<use p2_6_dcop.png>
+Package pdftex.def Info: p2_6_dcop.png used on input line 224.
+(pdftex.def)             Requested size: 433.62pt x 306.37201pt.
+ [23 <./p2_6_schem.png>] [24 <./p2_6_dcop.png>]
+<1_9.pdf, id=224, 613.33138pt x 786.77943pt>
+File: 1_9.pdf Graphic file (type pdf)
+ <use 1_9.pdf>
+Package pdftex.def Info: 1_9.pdf used on input line 235.
+(pdftex.def)             Requested size: 433.62pt x 556.25227pt.
+
+<1_9a.pdf, id=225, 951.62105pt x 319.21468pt>
+File: 1_9a.pdf Graphic file (type pdf)
+ <use 1_9a.pdf>
+Package pdftex.def Info: 1_9a.pdf used on input line 242.
+(pdftex.def)             Requested size: 433.62pt x 145.45721pt.
+ [25 <./1_9.pdf>]
+<p3_1a_schem.png, id=238, 852.11372pt x 536.14256pt>
+File: p3_1a_schem.png Graphic file (type png)
+ <use p3_1a_schem.png>
+Package pdftex.def Info: p3_1a_schem.png used on input line 249.
+(pdftex.def)             Requested size: 433.62pt x 272.83188pt.
+
+<p3_1a_dcop.png, id=239, 852.11372pt x 536.14256pt>
+File: p3_1a_dcop.png Graphic file (type png)
+ <use p3_1a_dcop.png>
+Package pdftex.def Info: p3_1a_dcop.png used on input line 256.
+(pdftex.def)             Requested size: 433.62pt x 272.83188pt.
+
+[26 <./1_9a.pdf> <./p3_1a_schem.png>]
+<p3_1a_gain.png, id=254, 1284.8pt x 872.25874pt>
+File: p3_1a_gain.png Graphic file (type png)
+ <use p3_1a_gain.png>
+Package pdftex.def Info: p3_1a_gain.png used on input line 263.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+ [27 <./p3_1a_dcop.png>] <p3_1b_schem.png, id=259, 852.11372pt x 535.30222pt>
+File: p3_1b_schem.png Graphic file (type png)
+
+<use p3_1b_schem.png>
+Package pdftex.def Info: p3_1b_schem.png used on input line 270.
+(pdftex.def)             Requested size: 433.62pt x 272.40425pt.
+ <p3_1b_dcop.png, id=260, 852.11372pt x 535.30222pt>
+File: p3_1b_dcop.png Graphic file (type png)
+
+<use p3_1b_dcop.png>
+Package pdftex.def Info: p3_1b_dcop.png used on input line 277.
+(pdftex.def)             Requested size: 433.62pt x 272.40425pt.
+ [28 <./p3_1a_gain.png (PNG copy)> <./p3_1b_schem.png>]
+<p3_1b_gain.png, id=265, 1284.8pt x 872.25874pt>
+File: p3_1b_gain.png Graphic file (type png)
+ <use p3_1b_gain.png>
+Package pdftex.def Info: p3_1b_gain.png used on input line 284.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+
+<p3_1c_schem.png, id=266, 985.72919pt x 536.14256pt>
+File: p3_1c_schem.png Graphic file (type png)
+ <use p3_1c_schem.png>
+Package pdftex.def Info: p3_1c_schem.png used on input line 291.
+(pdftex.def)             Requested size: 433.62pt x 235.84619pt.
+
+[29 <./p3_1b_dcop.png> <./p3_1b_gain.png (PNG copy)>]
+<p3_1c_dcop.png, id=271, 985.72919pt x 536.14256pt>
+File: p3_1c_dcop.png Graphic file (type png)
+ <use p3_1c_dcop.png>
+Package pdftex.def Info: p3_1c_dcop.png used on input line 298.
+(pdftex.def)             Requested size: 433.62pt x 235.84619pt.
+
+<p3_1c_gain.png, id=272, 1284.8pt x 872.25874pt>
+File: p3_1c_gain.png Graphic file (type png)
+ <use p3_1c_gain.png>
+Package pdftex.def Info: p3_1c_gain.png used on input line 305.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+ [30 <./p3_1c_schem.png> <./p3_1c_dcop.png>] [31 <./p3_1c_gain.png (PNG copy)>]
+
+<p3_2a.png, id=282, 1284.8pt x 872.25874pt>
+File: p3_2a.png Graphic file (type png)
+ <use p3_2a.png>
+Package pdftex.def Info: p3_2a.png used on input line 321.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+
+<p3_2b.png, id=283, 1284.8pt x 872.25874pt>
+File: p3_2b.png Graphic file (type png)
+ <use p3_2b.png>
+Package pdftex.def Info: p3_2b.png used on input line 328.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+ [32 <./p3_2a.png (PNG copy)>] <p3_2c.png, id=288, 1284.8pt x 872.25874pt>
+File: p3_2c.png Graphic file (type png)
+ <use p3_2c.png>
+Package pdftex.def Info: p3_2c.png used on input line 335.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+ [33 <./p3_2b.png (PNG copy)>] <1_10.pdf, id=292, 613.33138pt x 585.3878pt>
+File: 1_10.pdf Graphic file (type pdf)
+
+<use 1_10.pdf>
+Package pdftex.def Info: 1_10.pdf used on input line 344.
+(pdftex.def)             Requested size: 433.62pt x 413.86858pt.
+ [34 <./p3_2c.png (PNG copy)>]
+<p3_3a.png, id=296, 1284.8pt x 872.25874pt>
+File: p3_3a.png Graphic file (type png)
+ <use p3_3a.png>
+Package pdftex.def Info: p3_3a.png used on input line 351.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+ [35 <./1_10.pdf>]
+<p3_3b.png, id=308, 1284.8pt x 872.25874pt>
+File: p3_3b.png Graphic file (type png)
+ <use p3_3b.png>
+Package pdftex.def Info: p3_3b.png used on input line 358.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+ [36 <./p3_3a.png (PNG copy)>] <p3_3c.png, id=312, 1284.8pt x 872.25874pt>
+File: p3_3c.png Graphic file (type png)
+ <use p3_3c.png>
+Package pdftex.def Info: p3_3c.png used on input line 365.
+(pdftex.def)             Requested size: 433.62pt x 294.38127pt.
+ [37 <./p3_3b.png (PNG copy)>] <1_11a.pdf, id=317, 946.60199pt x 203.7754pt>
+File: 1_11a.pdf Graphic file (type pdf)
+
+<use 1_11a.pdf>
+Package pdftex.def Info: 1_11a.pdf used on input line 374.
+(pdftex.def)             Requested size: 433.62pt x 93.34604pt.
+ [38 <./p3_3c.png (PNG copy)> <./1_11a.pdf>]
+<1_11.pdf, id=331, 611.70354pt x 475.69167pt>
+File: 1_11.pdf Graphic file (type pdf)
+ <use 1_11.pdf>
+Package pdftex.def Info: 1_11.pdf used on input line 385.
+(pdftex.def)             Requested size: 433.62pt x 337.20631pt.
+
+<p3_5_schem.png, id=332, 815.13837pt x 534.46185pt>
+File: p3_5_schem.png Graphic file (type png)
+ <use p3_5_schem.png>
+Package pdftex.def Info: p3_5_schem.png used on input line 392.
+(pdftex.def)             Requested size: 433.62pt x 284.31544pt.
+
+[39 <./1_11.pdf>] [40 <./p3_5_schem.png>] (./Problem Set 3.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2712 strings out of 493488
- 37069 string characters out of 3141326
- 101184 words of memory out of 3000000
- 5990 multiletter control sequences out of 15000+200000
- 8713 words of font info for 32 fonts, out of 3000000 for 9000
+ 2991 strings out of 493488
+ 40910 string characters out of 3141326
+ 102656 words of memory out of 3000000
+ 6223 multiletter control sequences out of 15000+200000
+ 8821 words of font info for 33 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,30p,246b,191s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/local/texlive/2012/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr17.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmti10.pfb>
-Output written on "Problem Set 3.pdf" (1 page, 61437 bytes).
+ 38i,6n,30p,921b,228s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
+/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "Problem Set 3.pdf" (40 pages, 20564765 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 384 PDF objects out of 1000 (max. 8388607)
+ 225 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
 
